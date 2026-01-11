@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Rakshit Joshi/Downloads/t1c_riscv_cpu/t1c_riscv_cpu/simulation/modelsim
+vt1c_riscv_cpu
+Z1 !s110 1760042164
+!i10b 1
+!s100 j9Ui3giC<SKF[3a>J`[AG3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ih_1cOH5cY@nj4WMhUWHzV2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1758974555
+8t1c_riscv_cpu.vo
+Ft1c_riscv_cpu.vo
+!i122 0
+L0 32 111784
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1760042164.000000
+!s107 t1c_riscv_cpu.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|t1c_riscv_cpu.vo|
+!i113 1
+Z6 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+.
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 AJJnm1`@S@ZmUkW4^?XSX1
+R2
+IFm::1F@e7>bOeSfLL`g;z0
+R3
+R0
+w1760041508
+8C:/Users/Rakshit Joshi/Downloads/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v
+FC:/Users/Rakshit Joshi/Downloads/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v
+!i122 1
+L0 3 324
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Rakshit Joshi/Downloads/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Rakshit Joshi/Downloads/t1c_riscv_cpu/t1c_riscv_cpu/.test|C:/Users/Rakshit Joshi/Downloads/t1c_riscv_cpu/t1c_riscv_cpu/.test/tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/Users/Rakshit Joshi/Downloads/t1c_riscv_cpu/t1c_riscv_cpu/.test}
+R7
