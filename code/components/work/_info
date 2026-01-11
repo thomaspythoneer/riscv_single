@@ -1,0 +1,402 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Rakshit Joshi/Downloads/t1c_riscv_cpu/t1c_riscv_cpu/code/components
+vadder
+Z1 !s110 1760031742
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IT[:cXaXaOFVcG0VA5WNXD0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1758795412
+8adder.v
+Fadder.v
+!i122 2
+L0 4 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1760031742.000000
+Z7 !s107 reset_ff.v|reg_file.v|mux4.v|mux3.v|mux2.v|main_decoder.v|imm_extend.v|datapath.v|controller.v|alu_decoder.v|alu.v|adder.v|
+Z8 !s90 -reportprogress|300|-vlog01compat|adder.v|alu.v|alu_decoder.v|controller.v|datapath.v|imm_extend.v|main_decoder.v|mux2.v|mux3.v|mux4.v|reg_file.v|reset_ff.v|
+!i113 1
+Z9 o-vlog01compat
+Z10 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 IOIL1Qj<@gNz?M13hcK_H1
+R2
+I6d6<3O5njG3?@@QINb]7@3
+R3
+R0
+w1760031016
+8alu.v
+Falu.v
+!i122 2
+L0 2 29
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+valu_decoder
+R1
+!i10b 1
+!s100 5J2;UOY_Di6O<O7jie4AR3
+R2
+IhWoJQLO7i0?XVTWe90gTc3
+R3
+R0
+w1760031003
+8alu_decoder.v
+Falu_decoder.v
+!i122 2
+L0 3 33
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vcontroller
+R1
+!i10b 1
+!s100 6OI@6?V[Cf8UHWA6PUDKN0
+R2
+I>2k?BmkPz`@lH_44a?N3Z0
+R3
+R0
+w1760031059
+8controller.v
+Fcontroller.v
+!i122 2
+L0 3 43
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vdata_mem
+R1
+!i10b 1
+!s100 cSgAMTM]e`<Hged1CI=SB3
+R2
+I>Jii4n^5kMEBKUIeDbQ1l2
+R3
+R0
+R4
+8../data_mem.v
+F../data_mem.v
+!i122 3
+L0 4 19
+R5
+r1
+!s85 0
+31
+R6
+!s107 ../../.test/tb.v|../data_mem.v|../instr_mem.v|../t1c_riscv_cpu.v|../riscv_cpu.v|
+Z11 !s90 -reportprogress|300|-vlog01compat|../riscv_cpu.v|../t1c_riscv_cpu.v|../instr_mem.v|../data_mem.v|../../.test/tb.v|
+!i113 1
+R9
+R10
+vdatapath
+R1
+!i10b 1
+!s100 V_9K@4]aR=JG;Ea]G?ba]2
+R2
+IC8JT>3M[JV:ifF`Z=LCTH3
+R3
+R0
+w1760031228
+8datapath.v
+Fdatapath.v
+!i122 2
+L0 3 71
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vimm_extend
+R1
+!i10b 1
+!s100 4f^=@2@OdOlh?fJ9`OboR2
+R2
+Izmo5hBch0B?Bb8f3Ff?hk0
+R3
+R0
+w1760030917
+8imm_extend.v
+Fimm_extend.v
+!i122 2
+L0 4 25
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vinstr_mem
+R1
+!i10b 1
+!s100 _2]cbk6YNQ9ECcKm2oV;A0
+R2
+IQR]a;:SoV@764nDNlz]803
+R3
+R0
+w1760015575
+8../instr_mem.v
+F../instr_mem.v
+!i122 3
+L0 4 18
+R5
+r1
+!s85 0
+31
+R6
+Z12 !s107 ../../.test/tb.v|../data_mem.v|../instr_mem.v|../t1c_riscv_cpu.v|../riscv_cpu.v|
+R11
+!i113 1
+R9
+R10
+vmain_decoder
+R1
+!i10b 1
+!s100 RA`XoL>JioKd^Vd_KMiNb3
+R2
+Ildd1B?m^cT=VZoeUm3@DW2
+R3
+R0
+w1760030937
+8main_decoder.v
+Fmain_decoder.v
+!i122 2
+L0 5 29
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vmux2
+R1
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R2
+I5m2OjIjB=7c@jAgFJT:;D0
+R3
+R0
+R4
+8mux2.v
+Fmux2.v
+!i122 2
+Z13 L0 4 9
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vmux3
+R1
+!i10b 1
+!s100 fShz_RzH66YN6G@4dH?@Y3
+R2
+I;oK9WRZnG?O]lHGFVEW@E3
+R3
+R0
+R4
+8mux3.v
+Fmux3.v
+!i122 2
+R13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vmux4
+R1
+!i10b 1
+!s100 V4YdM>hK^I8CMb?cH8Cej3
+R2
+IkEncJWKnGm0YRXgoT9DF@1
+R3
+R0
+R4
+8mux4.v
+Fmux4.v
+!i122 2
+R13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vreg_file
+R1
+!i10b 1
+!s100 FQ?Xd=;O1cL5m9Jj23?441
+R2
+IckfoL`8:WYAe0@30][PjU2
+R3
+R0
+w1760028777
+8reg_file.v
+Freg_file.v
+!i122 2
+L0 4 27
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vreset_ff
+R1
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R2
+I9<8S1m`[XT>JF[G6_VVF50
+R3
+R0
+R4
+8reset_ff.v
+Freset_ff.v
+!i122 2
+L0 4 12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+vriscv_cpu
+R1
+!i10b 1
+!s100 I_aBTXYdbeCADGHz:l90n1
+R2
+I@QPzE:DXz=TBPhZzYcD]M3
+R3
+R0
+w1760028908
+8../riscv_cpu.v
+F../riscv_cpu.v
+!i122 3
+L0 3 51
+R5
+r1
+!s85 0
+31
+R6
+R12
+R11
+!i113 1
+R9
+R10
+vt1c_riscv_cpu
+R1
+!i10b 1
+!s100 fRJhUcL><S66KkBBVKF@V1
+R2
+IU>R_lSY3E]OeBalFUW2D02
+R3
+R0
+w1760008584
+8../t1c_riscv_cpu.v
+F../t1c_riscv_cpu.v
+!i122 3
+L0 4 26
+R5
+r1
+!s85 0
+31
+R6
+R12
+R11
+!i113 1
+R9
+R10
+vtb
+R1
+!i10b 1
+!s100 gbYa`0jY9IXj2YJZF6zTF0
+R2
+IkN0=ljRhoN]z^[8K`^?MO1
+R3
+R0
+w1760030507
+8../../.test/tb.v
+F../../.test/tb.v
+!i122 3
+L0 3 296
+R5
+r1
+!s85 0
+31
+R6
+R12
+R11
+!i113 1
+R9
+R10
